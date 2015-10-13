@@ -1,0 +1,9 @@
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\bin\Debug\HOTSPOT.exe.config
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\bin\Debug\HOTSPOT.exe
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\bin\Debug\HOTSPOT.pdb
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.csprojResolveAssemblyReference.cache
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.Form1.resources
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.Properties.Resources.resources
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.csproj.GenerateResource.Cache
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.exe
+c:\users\rowsun\documents\visual studio 2012\Projects\HOTSPOT\HOTSPOT\obj\Debug\HOTSPOT.pdb
